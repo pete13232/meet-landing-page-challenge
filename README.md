@@ -24,10 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-  <figure>
-    <figcaption>Mobile</figcaption>
-    <img src="./result/result_mobile.png" alt="mobile screen size" style="width:150px;">
-  </figure>
+![](./result/result_mobile.png)
+![](./result/result_tablet.png)
+![](./result/result_desktop.png)
 
   <figure>
     <figcaption>Tablet Screen Size</figcaption>
