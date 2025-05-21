@@ -24,9 +24,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./result/result_mobile.png)
-![](./result/result_tablet.png)
-![](./result/result_desktop.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
+  <figure style="display: inline-block; text-align: center; margin: 0;">
+    <figcaption>Tablet Screen Size</figcaption>
+    <img src="./result/result_tablet.png" alt="tablet screen size" style="width: 200px;">
+  </figure>
+
+  <figure style="display: inline-block; text-align: center; margin: 0;">
+    <figcaption>Desktop Screen Size</figcaption>
+    <img src="./result/result_desktop.png" alt="desktop screen size" style="width: 300px;">
+  </figure>
+</div>
+
 
   <figure>
     <figcaption>Tablet Screen Size</figcaption>
