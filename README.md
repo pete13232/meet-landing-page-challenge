@@ -25,16 +25,22 @@ Users should be able to:
 ### Screenshot
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
-  <figure style="display: inline-block; text-align: center; margin: 0;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin: 0;">
+    <img src="./result/result_mobile.png" alt="mobile screen size" style="width: 150px;">
     <figcaption>Tablet Screen Size</figcaption>
+  </figure>
+  
+  <figure style="display: flex; flex-direction: column; align-items: center; margin: 0;">
     <img src="./result/result_tablet.png" alt="tablet screen size" style="width: 200px;">
+    <figcaption>Tablet Screen Size</figcaption>
   </figure>
 
-  <figure style="display: inline-block; text-align: center; margin: 0;">
-    <figcaption>Desktop Screen Size</figcaption>
+  <figure style="display: flex; flex-direction: column; align-items: center; margin: 0;">
     <img src="./result/result_desktop.png" alt="desktop screen size" style="width: 300px;">
+    <figcaption>Desktop Screen Size</figcaption>
   </figure>
 </div>
+
 
 
   <figure>
