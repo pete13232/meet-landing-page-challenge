@@ -19,12 +19,22 @@ This is a solution to the [Meet landing page challenge on Frontend Mentor](https
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
+- View the optimal layout depending on their device's screen size (3 screen size: mobile, tablet and desktop)
 - See hover states for interactive elements
 
 ### Screenshot
 
-![preview](./preview.jpg)
+Below are screenshots illustrating the page preview.
+
+<div align="center">
+    <img src="./preview.jpg" alt="Preview Page" width="700" />
+    <br>
+    <em>Figure 1: Challenge page preview.</em>
+</div>
+<br>
+
+The image above is just a sample preview.
+You can explore the full experience on the live site [here](https://pete13232.github.io/meet-landing-page-challenge/).
 
 ### Links
 
